@@ -20,6 +20,7 @@ public class WelcomeController {
         model.addAttribute("msg", getMessage());
         model.addAttribute("today", new Date());
         System.out.println(model.getAttribute("today"));
+        System.out.println("나는 자연인이다!!");
         return "index";
 
     }
