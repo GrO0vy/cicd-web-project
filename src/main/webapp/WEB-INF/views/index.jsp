@@ -9,7 +9,7 @@
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
     <h3>과정: LGCNS AM Inspire 1기</h3>
-    <h2>진짜 자연인이다!!</h2>
     <a href="www.nexon.com">넥슨 가보자</a>
+    <a href="www.nexon.com">nexon</a>
 </body>
 </html>
