@@ -13,5 +13,6 @@
     <a href="www.nexon.com">nexon</a>
     <br>
     <h1>i'm in my room</h1>
+    <h2>say hi!</h2>
 </body>
 </html>
